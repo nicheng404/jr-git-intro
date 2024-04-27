@@ -1,1 +1,2 @@
-what you did in Step 7
+change the first line of ‘second.md’ to something else
+
